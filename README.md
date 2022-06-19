@@ -1,3 +1,8 @@
+# Agradecimneto
+Obrigado pelo execelente conteúdo <a href="https://www.youtube.com/playlist?list=PLNuUvBZGBA8nDTr8QRMgoT_l3XNt_BbWj" target="_blank">DevSuperior</a>.
+
+Esse é o resultado<a href="https://github.com/mvgouvea/exemplo-readme/blob/main/assets/info.md"> Destrinchando o README</a>.
+
 # Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/mvgouvea/exemplo-readme/blob/main/LICENCE) 
 
