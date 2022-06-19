@@ -1,7 +1,7 @@
-# Importante
+# Destrinchando o README
 
 ## Assets
-No desenvolvimento web, o termo assets é utilizado para designar tudo o que complementa o conteúdo dos websites. Em outras palavras, assets são nossos recursos de folhas de estilo, scripts, fontes e imagens. Em uma primeira análise, os assets parecem algo simples de se gerenciar
+No desenvolvimento web, o termo assets é utilizado para designar tudo o que complementa o conteúdo dos websites. Em outras palavras, assets são nossos recursos de folhas de estilo, scripts, fontes e imagens.
 
 ![imagem-assets1](https://i2.wp.com/www.crieseusjogos.com.br/wp-content/uploads/2022/05/3-8.png?resize=400%2C225&ssl=1)
 
