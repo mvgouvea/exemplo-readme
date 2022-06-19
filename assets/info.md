@@ -10,7 +10,7 @@ Fonte: https://tableless.com.br/workflow-para-cuidar-dos-seus-assets/#:~:text=No
 ## Folder
 Criação de folder dentro do GitHub
 
-![Folder](https://github.com/mvgouvea/exemplo-readme/blob/main/assets/folder1.png)
+![Folder](https://github.com/mvgouvea/exemplo-readme/blob/main/assets/image/folder1.png)
 
 Fonte: 
 <a href="https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github">Stackover Flow em português - Como criar uma pasta dentro do meu repositório no GitHub? </a> ;
@@ -20,7 +20,7 @@ Fonte:
 
 Markdown é a extensão .md muito conhecida no arquivo README.md, mas o que é exatamente isso? Semelhante ao HTML uma linguagem de connstução de páginas web, isso mesmo páginas como lojas americanas, Facebook ou empresas, start up que estão inicriando sua jornada é o primeiro passo para ter uma presença digital, seja ser um ecommerce (site de vendas) ou uma página institucional (o famoso SOBRE NÓS) cara de muitas empresas na internet, o seu portifolio. Quando você pesquisa
 
-![markdown1]()
+![markdown1](https://github.com/mvgouvea/exemplo-readme/blob/main/assets/image/markdown1.png)
 
 Fontes: 
 <a href="https://blog.da2k.com.br/2015/02/08/aprenda-markdown/">DA2K - Aprenda Markdown </a> ;
